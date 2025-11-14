@@ -12,7 +12,7 @@ Window functions for rankings, cumulative totals, and average revenue by segment
 
 **📈 Business Questions Explored**
 
-Conversion funnel performance by device category (page_view → add_to_cart → purchase)
+Conversion funnel performance by device category 
 
 Top landing pages by add_to_cart events and by daily traffic
 
