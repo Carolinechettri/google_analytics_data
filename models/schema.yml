@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: google_analytics_test
+    database: my-projects-475112
+    schema: google_analytics_test
+    loader: bigquery
+    description: Holds GA4 data for practice
+
+    tables:
+      - name: dlinkers_test
+        identifier: ga4_dl
+      - name: ga_sessions_raw
+      - name: ga4_obfuscated_sample
